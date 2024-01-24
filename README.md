@@ -1,3 +1,2 @@
 # CSE102HOMEWORKS
-these are my  homeworks which are  assigned by GEBZE TECHNICAL UNIVERSITY.In every homework, I used makefile so that you should run my program by using make in terminal
-
+These are my assignments assigned by Gebze Technical University. For each assignment, I have utilized a Makefile, allowing you to run my program by using the 'make' command in the terminal.
