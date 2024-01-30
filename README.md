@@ -14,10 +14,9 @@
 | **4**  | **[Homework IV ](https://github.com/emretechno/CSE102HOMEWORKS/blob/main/HW-4.zip)**                 | File I/O ,Function Implementation, Rock Paper Scissors Game, User Input Loop, Output Formatting |
 | **5**  | **[Homework V ](https://github.com/emretechno/CSE102HOMEWORKS/blob/main/HW-5.zip)**                  | User Input, Output Printing, Part Execution Order, Output Format, Program Structure.            |
 | **6**  | **[Homework VI ](https://github.com/emretechno/CSE102HOMEWORKS/blob/main/HW-6.zip)**                 | Inventory Management System, Functions, Arrays, Multi-dimensional Arrays,  Pointers,                                                                                                                                 File I/O, Data  Manipulation, , Text Files,  Query Operations                                   |
-
 | **7**  | **[Homework VII ](https://github.com/emretechno/CSE102HOMEWORKS/blob/main/HW-7.zip)**                | String Manipulation, File Processing, Vector Representations,Closest words algorithms           |
 | **8**  | **[Homework VIII ](https://github.com/emretechno/CSE102HOMEWORKS/blob/main/HW-8.zip)**               | Struct Data Structure , File operations,  recursive algorithm, efficiency                       |
 | **9**  | **[Homework IX ](https://github.com/emretechno/CSE102HOMEWORKS/blob/main/HW-9.zip)**                 | Snake Game Programming , 3D Board, Pointers , Structs , Dynamic Arrays, Efficieny               |
-| **10**  | **[Homework X ](https://github.com/emretechno/CSE102HOMEWORKS/blob/main/HW.10.zip)**                | Library Book Management System, Linked Lists,System Development, Operations                     |
-| **11**  | **[Homework XI ](https://github.com/emretechno/CSE102HOMEWORKS/blob/main/HW.11.zip)**               | Family Trees, C Program, Structs tructure, Node Load from Files, Algorithms                     |
-| **12**  | **[Homework XII ](https://github.com/emretechno/CSE102HOMEWORKS/blob/main/HW.12.zip)**              | Linked List, Structure Types, Serialization, Binary File, Reverse Engineering,Data Manipulation |   
+| **10** | **[Homework X ](https://github.com/emretechno/CSE102HOMEWORKS/blob/main/HW.10.zip)**                 | Library Book Management System, Linked Lists,System Development, Operations                     |
+| **11** | **[Homework XI ](https://github.com/emretechno/CSE102HOMEWORKS/blob/main/HW.11.zip)**                | Family Trees, C Program, Structs tructure, Node Load from Files, Algorithms                     |
+| **12** | **[Homework XII ](https://github.com/emretechno/CSE102HOMEWORKS/blob/main/HW.12.zip)**               | Linked List, Structure Types, Serialization, Binary File, Reverse Engineering,Data Manipulatio  |   
